@@ -2,7 +2,7 @@
 
 20 Kasım 2011–20 Kasım 2026 arasında Türkiye Süper Lig’inde yer alan 46 kulüp ve 4.953 tescilli karşılaşma için etkileşimli bir analiz sitesi.
 
-[Yayımlanan siteyi aç](https://superlig-veri-atlasi.delihikmet.chatgpt.site)
+[Yayımlanan siteyi aç](https://halilozt.github.io/superlig-veri-atlasi/)
 
 ## İçerik
 
